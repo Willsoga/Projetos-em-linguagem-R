@@ -1,2 +1,2 @@
-# Projetos-em-linguagem-R-com-Azure
-Projetos utilizando linguagem R com o Microsoft Azure
+# Projetos-em-linguagem-R
+Projeto da Formação Cientista de Dados da Data Science Academy
